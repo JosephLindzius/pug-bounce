@@ -1,5 +1,6 @@
 # Pug-Bounce-App
 
+![pugbounceapp](./pugbounce.jpg)
 
 [Check out site here](https://josephlindzius.github.io/pug-bounce/index.html)
 
